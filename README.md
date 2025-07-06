@@ -2,21 +2,17 @@
 
 A modern, responsive clone of Adobe Create website featuring creative content showcase, built with pure HTML5 and CSS3. This project demonstrates advanced web development skills with a focus on clean design and user experience.
 
-![Adobe Create Clone](./adobe-clone.png)
+![image](https://github.com/user-attachments/assets/c4ab4c0f-603a-4758-a3af-00fc34f3961a)
 
 ## 📋 Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Design Features](#design-features)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## ✨ Features
 
@@ -33,10 +29,6 @@ A modern, responsive clone of Adobe Create website featuring creative content sh
 - **Card-based Layout**: Modern card design for content presentation
 - **Social Media Integration**: Links to social platforms
 - **Professional Branding**: Adobe-inspired color scheme and typography
-
-## 🚀 Demo
-
-Visit the live website: [Adobe Create Clone](https://mamoonalatif.github.io/SPA-Adobe/) *(Will be available once deployed)*
 
 ## 🛠️ Technologies Used
 
@@ -95,17 +87,6 @@ SPA-Adobe/
 - **Creative Portfolio**: Showcase of various design projects
 - **Tutorials**: Step-by-step guides for creative processes
 - **Inspiration**: Creative content for design inspiration
-
-## 📱 Screenshots
-
-### Desktop View
-![Desktop Screenshot](./screenshots/desktop-view.png) *(Add screenshot)*
-
-### Mobile View
-![Mobile Screenshot](./screenshots/mobile-view.png) *(Add screenshot)*
-
-### Navigation
-![Navigation Demo](./screenshots/navigation.png) *(Add screenshot)*
 
 ## 🎨 Design Features
 
@@ -172,19 +153,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Mamoona Latif**
-- GitHub: [@Mamoonalatif](https://github.com/Mamoonalatif)
-- Repository: [SPA-Adobe](https://github.com/Mamoonalatif/SPA-Adobe)
-- Email: your.email@example.com *(Update with your email)*
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile) *(Update with your LinkedIn)*
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Adobe Create**: Original design inspiration
 - **Creative Community**: For providing design resources and inspiration
@@ -201,11 +171,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Implement responsive image galleries
 - [ ] Add user authentication features
 
----
-
-⭐ **Star this repository if you found it helpful!**
-
-*Made with ❤️ by [Mamoona Latif](https://github.com/Mamoonalatif)*
 
 ## 📊 Project Stats
 
@@ -213,4 +178,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **CSS3**: Modern styling with flexbox and responsive design
 - **Performance**: Optimized images and clean code
 - **Compatibility**: Cross-browser compatible
-- **Mobile**: Fully responsive design
